@@ -1,22 +1,4 @@
-I1.htm:  window.location.href = "https://uw.service-now.com/sys_report_template.do?jvar_report_id=2a66e2666f3c8348e74f1e8f1e3ee4b1"
-D1.htm:  window.location.href = "https://itconnect.uw.edu/servicestatus/#status"
-I2.htm:  window.location.href = "https://uw.service-now.com/sys_report_template.do?jvar_report_id=6c720ded4fc98b40906b91311310c712"
-D2.htm:  window.location.href = "http://staff.washington.edu/brad/statusdashboard"
-I3.htm:  window.location.href = "https://uw.service-now.com/sys_report_template.do?jvar_report_id=13362ae26f3c8348e74f1e8f1e3ee4c2"
-D1.htm:  window.location.href = "https://itconnect.uw.edu/servicestatus/#status"
-I4.htm:  window.location.href = "https://uw.innotas.com/external/tt.jsp.pageband.dashboard.ViewPublishedDashboard.pa?ODk4MDg0NjMxQEBAMTAxMzU3MDU0MCYmJjE5MzIyMzI2ODkqKioxIyMjODk4MDg0NjMx"
-
-"https://staff.washington.edu/brad/statusdashboard"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=87b497186f9583049920bc775b3ee400"
-"https://itconnect.uw.edu/servicestatus/#status"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=8b35424e6f03e14090ead2054b3ee422",
-"https://itconnect.uw.edu/servicestatus/#status"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=7eeb012b6f44754043f658254b3ee48b",
-"https://staff.washington.edu/brad/statusdashboard"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=2a66e2666f3c8348e74f1e8f1e3ee4b1",
-"https://itconnect.uw.edu/servicestatus/#status"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=6c720ded4fc98b40906b91311310c712",
-"https://staff.washington.edu/brad/statusdashboard"
-"https://uw.service-now.com/sys_report_template.do?jvar_report_id=13362ae26f3c8348e74f1e8f1e3ee4c2"
-
-
+"https://itconnect.uw.edu/servicestatus/#status", 30
+"https://steemitimages.com/DQmUVHhcp9mEgLRSGkXmdJTBj5LQggcUcCMVqWtBRiYGeS6/image.png", 30
+"https://itconnect.uw.edu/servicestatus/#status", 30
+"https://ca-times.brightspotcdn.com/dims4/default/ef52283/2147483647/strip/true/crop/1975x1111+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F1b%2F9357c7d77c3ffd83bcb222ed74e3%2Fsd-1502903660-5wr2zddwmy-snap-image", 30
