@@ -1,3 +1,4 @@
+"https://www.ventusky.com/?p=47.67;-122.29;7&l=radar", 20
 "https://staff.washington.edu/brad/statusdashboard", 40
 "https://itconnect.uw.edu/servicestatus/#status", 40
 "https://staff.washington.edu/brad/statusdashboard/index.html", 40
