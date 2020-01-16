@@ -1,4 +1,5 @@
-"https://itconnect.uw.edu/servicestatus/#status", 30
-"https://steemitimages.com/DQmUVHhcp9mEgLRSGkXmdJTBj5LQggcUcCMVqWtBRiYGeS6/image.png", 30
-"https://itconnect.uw.edu/servicestatus/#status", 30
-"https://ca-times.brightspotcdn.com/dims4/default/ef52283/2147483647/strip/true/crop/1975x1111+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F1b%2F9357c7d77c3ffd83bcb222ed74e3%2Fsd-1502903660-5wr2zddwmy-snap-image", 30
+"https://itconnect01.s.uw.edu/statusdashboard/", 30
+"https://uw.service-now.com/nav_to.douri=%2F$pa_dashboard.do%3Fsysparm_dashboard%3Dc931ab1adbb2b744d6a77a8eaf96197a%26sysparm_tab%3D5c616f5adbb2b744d6a77a8eaf9619d5%26sysparm_cancelable%3Dtrue%26sysparm_editable%3Dfalse%26sysparm_active_panel%3Dfalse", 30
+"https://uw.service-now.com/nav_to.douri=%2F$pa_dashboard.do%3Fsysparm_dashboard%3Dc931ab1adbb2b744d6a77a8eaf96197a%26sysparm_tab%3D5c616f5adbb2b744d6a77a8eaf9619d5%26sysparm_cancelable%3Dtrue%26sysparm_editable%3Dfalse%26sysparm_active_panel%3Dfalse", 30
+"https://www-sw.cac.washington.edu/Orion/SummaryView.aspx?ViewID=262", 30
+"https://outagemap.myavista.com/external/default.html", 30
