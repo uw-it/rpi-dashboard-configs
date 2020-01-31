@@ -1,4 +1,3 @@
-"https://www.google.com/maps/vt/data=uT-RHMra6R96lIt2MvLgbbPKlRu_oMYt-nU8uarMR1ENWIFTVk42DVUm4oNntq3uszUwOrYJTMwcHAiR9LoAOTLO_Zw0zcHQjiSTDj80wVdSqmTHVdr7_z9AJJ0fC8PDSZdjLyrYaBhN7Mj5U3vLaYSu0DM7qCfKaH9_suXxqJbZKdTpbNpp5jPiJBevtQIHa_-rvrrj", 20
 "https://www.ventusky.com/?p=47.67;-122.29;7&l=radar", 30
 "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6", 30
 "https://itconnect01.s.uw.edu/statusdashboard/", 30
