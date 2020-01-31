@@ -1,4 +1,5 @@
-"https://www.ventusky.com/?p=47.67;-122.29;7&l=radar", 20
+"https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6", 60
+"https://www.ventusky.com/?p=47.67;-122.29;7&l=radar", 40
 "https://staff.washington.edu/brad/statusdashboard", 40
 "https://itconnect.uw.edu/servicestatus/#status", 40
 "https://staff.washington.edu/brad/statusdashboard/index.html", 40
