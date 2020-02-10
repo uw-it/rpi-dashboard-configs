@@ -6,6 +6,7 @@
 "https://staff.washington.edu/brad/statusdashboard/index.html", 40
 "https://staff.washington.edu/brad/statusdashboard/indexIp14.html", 40
 "https://staff.washington.edu/brad/statusdashboard/indexIp5.html", 40
+"https://events.s.uw.edu/events/board", 40
 "https://staff.washington.edu/brad/statusdashboard/indexPr12.html", 40
 "https://staff.washington.edu/brad/statusdashboard/indexPr3.html", 40
 "https://staff.washington.edu/brad/statusdashboard/indexR.html", 40
